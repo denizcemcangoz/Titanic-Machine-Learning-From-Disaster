@@ -47,7 +47,8 @@ The model will generate predictions and save them to predictions.csv
 -Results
 
 The model generates predictions for 418 test passengers and outputs them in the required format:
-csvPassengerId,Survived
+csv
+PassengerId,Survived
 892,0
 893,0
 894,0
